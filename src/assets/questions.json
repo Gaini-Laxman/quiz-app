@@ -1,0 +1,245 @@
+{
+  "questions": [
+    {
+      "questionText": "The rescue ran short ______adequate assistance?",
+      "options": [
+        {
+          "text": "of",
+          "correct": true
+        },
+        {
+          "text": "up"
+        },
+        {
+          "text": "off"
+        },
+        {
+          "text": "of"
+        }
+      ],
+      "explanation": " uses a (of) oprion is currect"
+    },
+    {
+      "questionText": "Large attachments can annoy readers even bring ______ their email system ?",
+      "options": [
+        {
+          "text": "off"
+        },
+        {
+          "text": "down",
+          "correct": true
+        },
+        {
+          "text": "fourth"
+        },
+        {
+          "text": "up"
+         
+        }
+      ],
+      "explanation": "down is the currect option"
+    },
+    {
+      "questionText": "He has a zest _____ adventure ?",
+      "options": [
+        {
+          "text": "in"
+        },
+        {
+          "text": "for",
+          "correct": true
+        },
+        {
+          "text": "on"
+        },
+        {
+          "text": "at"
+        }
+      ],
+      "explanation": "for is the currect option"
+    },
+    {
+      "questionText": "_ If you had invited, her _______ with us ?",
+      "options": [
+        {
+          "text": "can come"
+        },
+        {
+          "text": "could have come",
+          "correct": true
+        },
+        {
+          "text": " come"
+        },
+        {
+          "text": "could come"
+        }
+      ],
+      "explanation": "could have come option is currect"
+    },
+    {
+      "questionText": "If I were you, I ________ be careful with words?",
+      "options": [
+        {
+          "text": "would",
+          "correct": true
+        },
+        {
+          "text": "will"
+        },
+        {
+          "text": "can"
+        },
+        {
+          "text": "could"
+        }
+      ],
+      "explanation": "would is currect option "
+    },
+    {
+      "questionText": "He ______ fourth round ?",
+      "options": [
+        {
+          "text": "fell over"
+        },
+        {
+          "text": "fall by"
+        },
+        {
+          "text": "fells by"
+        },
+        {
+          "text": "fell in",
+          "correct": true
+        }
+      ],
+      "explanation": "fell in is currect answer"
+    },
+    {
+      "questionText": "_________ the ground will be wet ?",
+      "options": [
+        {
+          "text": "if it rain"
+        },
+        {
+          "text": "if it rains",
+          "correct": true
+        },
+        {
+          "text": " if it would rain"
+        },
+        {
+          "text": "if there will be rains"
+        }
+      ],
+      "explanation": "if it rains is currect answer"
+    },
+    {
+      "questionText": " since one cannot read every book, one should be content with making ________selection ?",
+      "options": [
+        {
+          "text": " judicious",
+          "correct": true
+        },
+        {
+          "text": " normal"
+        },
+        {
+          "text": "standard"
+        },
+        {
+          "text": "moderate"
+        }
+      ],
+      "explanation": "judicious is currect option"
+    },
+    {
+      "questionText": " I will ________ a hotel when I am in the city next time ?",
+      "options": [
+        {
+          "text": "board",
+          "correct": true
+        },
+        {
+          "text": "bored"
+        },
+        {
+          "text": "bord"
+        },
+        {
+          "text": "bird"
+        }
+      ],
+      "explanation": "board option is currect"
+    }
+    ,
+    {
+      "questionText": " One of the most hard-working of all animals is the_____ ?",
+      "options": [
+        {
+          "text": "ant",
+          "correct": true
+        },
+        {
+          "text": "aunt"
+        },
+        {
+          "text": "anti"
+        },
+        {
+          "text": "aunty"
+        }
+      ],
+      "explanation": "ant option is currect"
+    }
+    ,
+    {
+      "questionText": " You must pursue ________ seriousness ?",
+      "options": [
+        {
+          "text": " the carrier in full"
+          
+        },
+        {
+          "text": "your employment within"
+        },
+        {
+          "text": "carrier all in all"
+        },
+        {
+          "text": "your carrier with all",
+          "correct": true
+        }
+      ],
+      "explanation": "your carrier with all option is currect"
+    }
+    ,
+    {
+      "questionText": "This is the first time these skills have become part of the normal evolution system ________standardized format throughout the country ?",
+      "options": [
+        {
+          "text": " that too with a",
+          "correct": true
+          
+        },
+        {
+          "text": "that also with a"
+        },
+        {
+          "text": "and that with a"
+        },
+        {
+          "text": "but also with"
+          
+        }
+      ],
+      "explanation": "that too with a option is currect"
+    }
+
+
+
+
+
+
+  ]
+}
