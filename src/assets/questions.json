@@ -234,7 +234,148 @@
         }
       ],
       "explanation": "that too with a option is currect"
+    },
+    {
+      "questionText": " ________ teachers whenever they meet ?",
+      "options": [
+        {
+          "text": " students might salute the"
+          
+        },
+        {
+          "text": "students must greet their",
+		  "correct": true
+        },
+        {
+          "text": "students shall great their"
+        },
+        {
+          "text": "students too may wishes"
+          
+        }
+      ],
+      "explanation": "students must greet their option is currect"
     }
+	,
+    {
+      "questionText": " When the EGYPT goalkeeper ESSAM EI HADARY lamented that they were the victims of FIFA and there ever-developing footballs, his manager Hector Cuper ________ ?",
+      "options": [
+        {
+          "text": " appeared to take the comment amusing"  
+        },
+        {
+          "text": "appeared to find the comment amazing"
+        },
+        {
+          "text": "appeared to find the comment amusing",
+		  "correct": true
+        },
+        {
+          "text": "appeared to take the comment amazing"
+        }
+      ],
+      "explanation": "appeared to find the comment amusing option is currect"
+    }
+,
+    {
+      "questionText": " Choose currect Option ?",
+      "options": [
+        {
+          "text": " All of the people at the school, including the teacher and students; were glad when the summer break came."  
+        },
+        {
+          "text": "All of the people of the school, including the teacher and students, were glad when the summer break came.",
+		  "correct": true
+        },
+        {
+          "text": " All of the people of the school including the teacher and students were glad when the summer break came."
+        },
+        {
+          "text": "All of the people of the school including the teacher and students, were glad when the summer break came."
+        }
+      ],
+      "explanation": "All of the people of the school, including the teacher and students, were glad when the summer break came. option is currect"
+    },
+	{
+      "questionText": " Choose currect Option ?",
+      "options": [
+        {
+          "text": " 'I don't want to go anywhere”, he said !"  
+        },
+        {
+          "text": " 'I don't want to go anywhere', he said!"
+		
+        },
+        {
+          "text": " 'I don't want to go anywhere”, he said",
+		    "correct": true
+        },
+        {
+          "text": " I don't want to go anywhere he said."
+        }
+      ],
+      "explanation": "'I don't want to go anywhere”, he said option is currect"
+    },
+	{
+      "questionText": " She is confident that she is knowing the answer ?",
+      "options": [
+        {
+          "text": " Is knowing the answer" ,
+          "correct": true		  
+        },
+        {
+          "text": "knows the answer"
+		
+        },
+        {
+          "text": " has known the answer"
+		   
+        },
+        {
+          "text": " was knowing the answer"
+        }
+      ],
+      "explanation": "Is knowing the answer option is currect"
+    },
+	{
+      "questionText": "By the time my mother retires, I will be working for company for seven years ?",
+      "options": [
+        {
+          "text": " I will be working" 	  
+        },
+        {
+          "text": "I have been working"
+        },
+        {
+          "text": " I will have been working",
+		   "correct": true	
+        },
+        {
+          "text": "  I will had been working"
+        }
+      ],
+      "explanation": "I will have been working option is currect"
+    },
+	{
+      "questionText": "If you don't know (A) the meaning of a (B) word, you must (C) look up in the dictionary ?",
+      "options": [
+        {
+          "text": " A" 	  
+        },
+        {
+          "text": "B"
+        },
+        {
+          "text": " C"
+        },
+        {
+          "text": " D",
+		  "correct": true	
+        }
+      ],
+      "explanation": "D option is currect"
+    },
+
 
 
 
